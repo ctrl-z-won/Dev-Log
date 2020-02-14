@@ -1,5 +1,9 @@
 ## 주차별 학습 기록
 
+### 큰그림
+
+[상반기 계획](https://github.com/ctrl-z-won/Dev-Log/blob/master/doc/0107%202020%20%EA%B3%84%ED%9A%8D%20%EC%99%84%EC%84%B1.pdf)
+
 ### 1주차 (2/14) 
 
  - Hello World JavaScript 읽어오기
