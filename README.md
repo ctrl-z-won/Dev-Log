@@ -11,5 +11,11 @@
  - https://leesoo7595.github.io/class/2020/02/09/es5_first_week/
 
 > 과제
+>
+> https://poiemaweb.com/js-array
+>
+> https://poiemaweb.com/js-array-higher-order-function
 
 ### 2주차 
+
+30분 : 배열 연습문제
