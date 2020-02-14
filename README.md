@@ -6,4 +6,6 @@
  - 원시타입과 객체, 호이스팅, 스코프
  - https://leesoo7595.github.io/class/2020/02/09/es5_first_week/
 
+> 과제
 
+### 2주차 
