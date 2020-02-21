@@ -11,13 +11,11 @@
 
 > 과제
 >
-> https://poiemaweb.com/js-array
->
+> https://poiemaweb.com/js-array  
 > https://poiemaweb.com/js-array-higher-order-function
 
 ### 2주차 
 
-30분 : 배열 연습문제
-
+ - [review](https://github.com/ctrl-z-won/Dev-Log/blob/master/wr/1%EC%A3%BC%EC%B0%A8%20weekly%20review.md)
  - [this, closure](https://leesoo7595.github.io/class/2020/02/16/es5_second_week/)
  - [비동기와 callback](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
