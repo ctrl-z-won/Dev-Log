@@ -7,8 +7,7 @@
 ### 1주차 (2/14) 
 
  - Hello World JavaScript 읽어오기
- - 원시타입과 객체, 호이스팅, 스코프
- - https://leesoo7595.github.io/class/2020/02/09/es5_first_week/
+ - [원시타입과 객체, 호이스팅, 스코프](https://leesoo7595.github.io/class/2020/02/09/es5_first_week/)
 
 > 과제
 >
@@ -19,3 +18,6 @@
 ### 2주차 
 
 30분 : 배열 연습문제
+
+ - [this, closure](https://leesoo7595.github.io/class/2020/02/16/es5_second_week/)
+ - [비동기와 callback](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
